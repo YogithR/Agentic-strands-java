@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# A2A Java SDK
+# Agentic-strands-java SDK
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
@@ -9,7 +9,7 @@
    <h2 align="center">
    <img src="https://raw.githubusercontent.com/google-a2a/A2A/refs/heads/main/docs/assets/a2a-logo-black.svg" width="256" alt="A2A Logo"/>
    </h2>
-   <h3 align="center">A Java library that helps run agentic applications as A2AServers following the <a href="https://google-a2a.github.io/A2A">Agent2Agent (A2A) Protocol</a>.</h3>
+   <h3 align="center">A Java library that helps run agentic applications as A2AServers following the <a href="https://google-a2a.github.io/A2A">Agentic-strands-java Protocol</a>.</h3>
 </html>
 
 ## Installation
