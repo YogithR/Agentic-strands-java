@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A2A Java SDK
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
@@ -641,3 +642,6 @@ To contribute an integration, please see [CONTRIBUTING_INTEGRATIONS.md](CONTRIBU
 # Extras
 See the [`extras`](./extras/README.md) folder for extra functionality not provided by the SDK itself!
 
+=======
+# Agentic-strands-java
+>>>>>>> 1ff0bc36d4a9a942e58230a94636e806485479ac
